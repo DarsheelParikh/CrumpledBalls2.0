@@ -1,1 +1,1 @@
-# CrumpledBalls2.0
+# CP-2
